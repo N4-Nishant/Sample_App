@@ -1,5 +1,5 @@
 # Sample_App
-App with only a UI for HarmonyOS platform
+UI for a app built in eTS for HarmonyOS
 
 # Pages
 
